@@ -9,7 +9,7 @@ Link : https://2018game.picoctf.com
 
 # Problem type
 
- * Miscellaneous
+ - [Miscellaneous](#Miscellaneous)
 
  * BinaryExploitation
 
