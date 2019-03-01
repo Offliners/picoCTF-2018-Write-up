@@ -9,17 +9,17 @@ Link : https://2018game.picoctf.com/news
 
 * Problem type
 
-  1. Miscellaneous
+  * Miscellaneous
   
-  2. BinaryExploitation
+  * BinaryExploitation
   
-  3. Cryptography
+  * Cryptography
   
-  4. Forensics
+  * Forensics
   
-  5. Reverse Engineering
+  * Reverse Engineering
   
-  6. webExploitation
+  * webExploitation
   
 * Downloads : 
 
