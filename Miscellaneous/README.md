@@ -68,3 +68,28 @@ flag為 `picoCTF{NEtcat_iS_a_NEcESSiTy_8b6a1fbc}`
 則flag就跑了出來
 
 flag為 `picoCTF{sTrIngS_sAVeS_Time_c09b1444}`
+
+# pipe
+題目又給了域名和port，二話不說先nc連線看看
+
+結果噴出了一堆的英文句子
+
+學過剛剛的教訓，就用grep來找看看吧
+
+`nc 2018shell.picoctf.com 44310`
+
+就馬上找到了flag `picoCTF{almost_like_mario_a13e5b27}`
+
+# grep 2
+題目直接叫我們使用網站提供的shell到/problems/grep-2_0_783d3e2c8ea2ebd3799ca6a5d28fc742/files此目錄下去尋找flag
+
+到此目錄中看到有10個files要找
+
+不過只要下此指令
+
+`grep -r picoCTF`
+
+`-r`是linux的循環指令，他會grep所有的檔案
+
+所以flag就能輕鬆得到 `picoCTF{grep_r_and_you_will_find_24c911ab}`
+
