@@ -92,4 +92,3 @@ flag為 `picoCTF{sTrIngS_sAVeS_Time_c09b1444}`
 `-r`是linux的循環指令，他會grep所有的檔案
 
 所以flag就能輕鬆得到 `picoCTF{grep_r_and_you_will_find_24c911ab}`
-
