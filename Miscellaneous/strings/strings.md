@@ -27,4 +27,5 @@ Miscellaneous
 
 ## Useful Link
 Downloads file : https://2018shell.picoctf.com/static/e78981e684a62559baaef12a27f0e918/strings
+
 strings詳細用法 : https://linux.die.net/man/1/strings
