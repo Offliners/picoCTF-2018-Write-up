@@ -54,6 +54,8 @@ flag就馬上跳出來
 
 flag為 `picoCTF{NEtcat_iS_a_NEcESSiTy_8b6a1fbc}`
 
+net cat詳細用法 : https://linux.die.net/man/1/nc
+
 # strings
 此題目給了我們一個名叫strings的檔案，按照前面步驟開啟發現一大堆的字串
 
