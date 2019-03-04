@@ -1,5 +1,7 @@
 ## net cat
-Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell.picoctf.com at port 49387 to get the flag?
+Using netcat (nc) will be a necessity throughout your adventure.
+
+Can you connect to 2018shell.picoctf.com at port 49387 to get the flag?
 
 Points : 75
 
