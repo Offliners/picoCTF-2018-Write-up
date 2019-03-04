@@ -1,2 +1,2 @@
 ## Flag
-picoCTF{61}
+`picoCTF{61}`
