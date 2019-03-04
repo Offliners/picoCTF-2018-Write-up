@@ -104,3 +104,24 @@ grep詳細用法 : https://ryanstutorials.net/linuxtutorial/grep.php
 所以flag就能輕鬆得到 `picoCTF{grep_r_and_you_will_find_24c911ab}`
 
 grep詳細用法 : https://ryanstutorials.net/linuxtutorial/grep.php
+
+# Aca-Shell-A
+
+# environ
+
+# ssh-keyz
+
+# what base is this?
+
+# you can't see me
+
+# absolutely relative
+
+# in out error
+
+# learn gdb
+
+# store
+
+# script me
+
