@@ -10,7 +10,7 @@
 |[strings](strings/strings.md)|[flag](strings/flag.md)|100|Solved|
 |[pipe](pipe/pipe.md)|[flag](pipe/flag.md)|110|Solved|
 |[grep 2](grep%202/grep-2.md)|[flag](grep%202/flag.md)|125|Solved|
-|[Aca-Shell-A](Ace-Shell-A/ace-shell-a.md)|[flag](Ace-Shell-A/flag.md)|150|Solved|
+|[Aca-Shell-A](Aca-Shell-A/aca-shell-a.md)|[flag](Aca-Shell-A/flag.md)|150|Solved|
 |[environ](environ/environ.md)|[flag](environ/flag.md)|150|Solved|
 |ssh-keyz|flag|150|Unolved|
 |what base is this?|flag|200|Unolved|
