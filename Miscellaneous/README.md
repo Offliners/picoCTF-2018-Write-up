@@ -3,6 +3,8 @@
 
 0x41 = 4 * 16 + 1 = 65
 
+ASCII表單連結 : https://zh.wikipedia.org/wiki/ASCII
+
 查表即可知道為 A
 
 所以flag為 `picoCTF{A}`
@@ -76,7 +78,7 @@ flag為 `picoCTF{sTrIngS_sAVeS_Time_c09b1444}`
 
 學過剛剛的教訓，就用grep來找看看吧
 
-`nc 2018shell.picoctf.com 44310`
+`nc 2018shell.picoctf.com 44310 | grep pico`
 
 就馬上找到了flag `picoCTF{almost_like_mario_a13e5b27}`
 
