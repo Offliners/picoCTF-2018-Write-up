@@ -2,8 +2,8 @@
 |Challenges|Flag|Points|Status|
 |-|-|-|-|
 |[General Warmup 1](General%20Warmup%201/general-warmup-1.md)|[flag](General%20Warmup%201/flag.md)|50|Solved|
-|[General Warmup 2]|[flag](General%20Warmup%202/flag.md)|50|Solved|
-|[General Warmup 3]|[flag](General%20Warmup%203/flag.md)|50|Solved|
+|[General Warmup 2](General%20Warmup%202/general-warmup-2.md)|[flag](General%20Warmup%202/flag.md)|50|Solved|
+|[General Warmup 3](General%20Warmup%203/general-warmup-3.md)|[flag](General%20Warmup%203/flag.md)|50|Solved|
 |[Resources]|[flag](Resources/flag.md)|50|Solved|
 |[grep 1]|[flag](grep%201/flag.md)|75|Solved|
 |[net cat]|[flag](net%20cat/flag.md)|75|Solved|
