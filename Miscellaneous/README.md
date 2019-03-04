@@ -1,9 +1,9 @@
 ## Miscellaneous
 |Challenges|Points|Status|
 |-|-|-|
-|[General Skills 1]|50|Solved|
-|[General Skills 2]|50|Solved|
-|[General Skills 3]|50|Solved|
+|[General Warmup 1]|50|Solved|
+|[General Warmup 1]|50|Solved|
+|[General Warmup 1]|50|Solved|
 |[Resources]|50|Solved|
 |[grep 1]|75|Solved|
 |[net cat]|75|Solved|
