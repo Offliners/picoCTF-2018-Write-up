@@ -1,7 +1,7 @@
 ## strings
 Can you find the flag in this file without actually running it? 
 
-You can also find the file in /problems/strings_0_bf57524acf558aca2081eb97ece8e2ee on the shell server.
+You can also find the [file](https://2018shell.picoctf.com/static/e78981e684a62559baaef12a27f0e918/strings) in /problems/strings_0_bf57524acf558aca2081eb97ece8e2ee on the shell server.
 
 Points : 100
 
@@ -26,4 +26,5 @@ Miscellaneous
 則flag就跑了出來
 
 ## Useful Link
+Downloads file : https://2018shell.picoctf.com/static/e78981e684a62559baaef12a27f0e918/strings
 strings詳細用法 : https://linux.die.net/man/1/strings
