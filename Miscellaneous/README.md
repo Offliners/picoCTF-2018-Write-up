@@ -8,7 +8,7 @@
 |[grep 1]|[flag](grep%201/flag.md)|75|Solved|
 |[net cat]|[flag](net%20cat/flag.md)|75|Solved|
 |[strings]|[flag](strings/flag.md)|100|Solved|
-|[pipe]|110|[flag](pipe/flag.md)|Solved|
+|[pipe]|[flag](pipe/flag.md)|110|Solved|
 |[grep 2]|[flag](grep%202/flag.md)|125|Solved|
 |[Aca-Shell-A]|[flag](Ace-Shell-A/flag.md)|150|Solved|
 |[environ]|[flag](environ/flag.md)|150|Solved|
