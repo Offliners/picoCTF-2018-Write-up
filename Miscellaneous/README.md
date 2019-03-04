@@ -1,7 +1,7 @@
 ## Miscellaneous
 |Challenges|Flag|Points|Status|
 |-|-|-|-|
-|[General Warmup 1](Miscellaneous/General Warmup 1/general-warmup-1.md)|[flag](General Warmup 1/flag.md)|50|Solved|
+|[General Warmup 1](General Warmup 1/general-warmup-1.md)|[flag](General Warmup 1/flag.md)|50|Solved|
 |[General Warmup 2]|[flag](General Warmup 1/flag.md)|50|Solved|
 |[General Warmup 3]|[flag](General Warmup 1/flag.md)|50|Solved|
 |[Resources]|[flag](General Warmup 1/flag.md)|50|Solved|
