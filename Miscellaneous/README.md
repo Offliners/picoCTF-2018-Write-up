@@ -2,23 +2,23 @@
 |Challenges|Flag|Points|Status|
 |-|-|-|-|
 |[General Warmup 1](General%20Warmup%201/general-warmup-1.md)|[flag](General%20Warmup%201/flag.md)|50|Solved|
-|[General Warmup 2]|[flag](General Warmup 1/flag.md)|50|Solved|
-|[General Warmup 3]|[flag](General Warmup 1/flag.md)|50|Solved|
-|[Resources]|[flag](General Warmup 1/flag.md)|50|Solved|
-|[grep 1]|[flag](General Warmup 1/flag.md)|75|Solved|
-|[net cat]|[flag](General Warmup 1/flag.md)|75|Solved|
-|[strings]|[flag](General Warmup 1/flag.md)|100|Solved|
-|[pipe]|110|[flag](General Warmup 1/flag.md)|Solved|
-|[grep 2]|[flag](General Warmup 1/flag.md)|125|Solved|
-|[Aca-Shell-A]|[flag](General Warmup 1/flag.md)|150|Solved|
-|[environ]|[flag](General Warmup 1/flag.md)|150|Solved|
-|[ssh-keyz]|[flag](General Warmup 1/flag.md)|150|Unolved|
-|[what base is this?]|[flag](General Warmup 1/flag.md)|200|Unolved|
-|[you can't see me]|[flag](General Warmup 1/flag.md)|200|Unolved|
-|[absolutely relative]|[flag](General Warmup 1/flag.md)|200|Unolved|
-|[in out error]|[flag](General Warmup 1/flag.md)|275|Unolved|
-|[learn gdb]|[flag](General Warmup 1/flag.md)|300|Unolved|
-|[roulette]|[flag](General Warmup 1/flag.md)|350|Unolved|
-|[store]|[flag](General Warmup 1/flag.md)|400|Unolved|
-|[script me]|[flag](General Warmup 1/flag.md)|500|Unsolved|
-|[Dog or Frog]|[flag](General Warmup 1/flag.md)|900|Unsolved|
+|[General Warmup 2]|[flag](General%20Warmup%202/flag.md)|50|Solved|
+|[General Warmup 3]|[flag](General%20Warmup%203/flag.md)|50|Solved|
+|[Resources]|[flag](Resources/flag.md)|50|Solved|
+|[grep 1]|[flag](grep%201/flag.md)|75|Solved|
+|[net cat]|[flag](net%20cat/flag.md)|75|Solved|
+|[strings]|[flag](strings/flag.md)|100|Solved|
+|[pipe]|110|[flag](pipe/flag.md)|Solved|
+|[grep 2]|[flag](grep%202/flag.md)|125|Solved|
+|[Aca-Shell-A]|[flag](Ace-Shell-A/flag.md)|150|Solved|
+|[environ]|[flag](environ/flag.md)|150|Solved|
+|ssh-keyz|flag|150|Unolved|
+|what base is this?|flag|200|Unolved|
+|you can't see me|flag|200|Unolved|
+|absolutely relative|flag|200|Unolved|
+|in out error|flag|275|Unolved|
+|learn gdb|flag|300|Unolved|
+|roulette|flag|350|Unolved|
+|store|flag|400|Unolved|
+|script me|flag|500|Unsolved|
+|Dog or Frog|flag|900|Unsolved|
