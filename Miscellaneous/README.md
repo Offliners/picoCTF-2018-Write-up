@@ -35,7 +35,9 @@ flag為 `picoCTF{xiexie_ni_lai_zheli}`
 # grep 1
 下載題目給的檔案file，會發現無法辨識此為什麼檔案
 
-通常就會用Notepad或用文字檔開啟
+通常就會用Notepad或用文字檔開啟，也可在linux的終端機使用grep尋找
+
+grep詳細用法 : https://ryanstutorials.net/linuxtutorial/grep.php
 
 開啟後會發現一堆亂碼，但尋找關鍵字pico即可發現
 
@@ -67,6 +69,8 @@ flag為 `picoCTF{NEtcat_iS_a_NEcESSiTy_8b6a1fbc}`
 
 這個指令是將檔案以文字檔開啟，然後尋找pico
 
+strings詳細用法 : https://linux.die.net/man/1/strings
+
 則flag就跑了出來
 
 flag為 `picoCTF{sTrIngS_sAVeS_Time_c09b1444}`
@@ -92,5 +96,7 @@ flag為 `picoCTF{sTrIngS_sAVeS_Time_c09b1444}`
 `grep -r picoCTF`
 
 `-r`是linux的循環指令，他會grep所有的檔案
+
+grep詳細用法 : https://ryanstutorials.net/linuxtutorial/grep.php
 
 所以flag就能輕鬆得到 `picoCTF{grep_r_and_you_will_find_24c911ab}`
