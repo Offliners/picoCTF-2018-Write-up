@@ -7,7 +7,7 @@ picoCTF 2018 Website : https://2018game.picoctf.com
 
 # Problem type
 
- - [Miscellaneous](Miscellaneous/README.md)
+ * [Miscellaneous](Miscellaneous/README.md)
 
  * BinaryExploitation
 
