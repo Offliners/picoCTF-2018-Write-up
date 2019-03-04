@@ -9,7 +9,7 @@
 |[net cat]|[flag](net%20cat/flag.md)|75|Solved|
 |[strings]|[flag](strings/flag.md)|100|Solved|
 |[pipe]|[flag](pipe/flag.md)|110|Solved|
-|[grep 2]|[flag](grep%202/flag.md)|125|Solved|
+|[grep 2](grep%202/grep-2.md)|[flag](grep%202/flag.md)|125|Solved|
 |[Aca-Shell-A]|[flag](Ace-Shell-A/flag.md)|150|Solved|
 |[environ]|[flag](environ/flag.md)|150|Solved|
 |ssh-keyz|flag|150|Unolved|
