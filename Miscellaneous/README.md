@@ -13,7 +13,7 @@
 |[Aca-Shell-A](Aca-Shell-A/aca-shell-a.md)|[flag](Aca-Shell-A/flag.md)|150|Solved|
 |[environ](environ/environ.md)|[flag](environ/flag.md)|150|Solved|
 |[ssh-keyz](ssh-keyz/ssh-keyz.md)|[flag](ssh-keyz/flag.md)|150|Solved|
-|what base is this?|flag|200|Unolved|
+|[what base is this?](what%20base%20is%20this/what-base-is-this.md)|[flag](what%20base%20is%20this/flag.md)|200|Solved|
 |you can't see me|flag|200|Unolved|
 |absolutely relative|flag|200|Unolved|
 |in out error|flag|275|Unolved|
