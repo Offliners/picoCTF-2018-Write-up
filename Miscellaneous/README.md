@@ -12,7 +12,7 @@
 |[grep 2](grep%202/grep-2.md)|[flag](grep%202/flag.md)|125|Solved|
 |[Aca-Shell-A](Aca-Shell-A/aca-shell-a.md)|[flag](Aca-Shell-A/flag.md)|150|Solved|
 |[environ](environ/environ.md)|[flag](environ/flag.md)|150|Solved|
-|[ssh-keyz](ssh-keyz/ssh-keyz.md)|[flag](ssh-keyz/flag.md)|150|Unolved|
+|[ssh-keyz](ssh-keyz/ssh-keyz.md)|[flag](ssh-keyz/flag.md)|150|Solved|
 |what base is this?|flag|200|Unolved|
 |you can't see me|flag|200|Unolved|
 |absolutely relative|flag|200|Unolved|
