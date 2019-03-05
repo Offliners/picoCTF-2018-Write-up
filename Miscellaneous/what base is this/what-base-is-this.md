@@ -43,7 +43,7 @@ binary = s.recvuntil('word.') //讀取字串並停止在word
 binary = re.findall(r'(\d+)', binary) //使用pwntools內建模組re的findall函式庫，findall可以指定的字串
 ans = ''
 for i in binary:
-	ans += chr(int(i, 2)) //將binary一個個轉成10進位，在轉成ASCII
+	ans += chr(int(i, 2)) //將binary一個個轉成十進位，在轉成ASCII
 s.sendline(ans) //將答案送出
 
 hexa = s.recvuntil('word').strip()
