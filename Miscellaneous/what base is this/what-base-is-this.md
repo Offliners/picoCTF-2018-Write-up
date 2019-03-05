@@ -62,6 +62,12 @@ print s.recvuntil('}\n') //印出flag
 
 s.close() //關閉程式
 ```
+接著在終端機下此指令即可執行這程式
+
+`python answer.py`
+
+flag就會跑出來~
+
 ## Useful Link
 pwntools安裝 : https://pwntoolsdocinzh-cn.readthedocs.io/en/master/install.html
 
