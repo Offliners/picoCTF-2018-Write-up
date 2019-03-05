@@ -55,7 +55,33 @@ offliner@ubuntu:~/.ssh$ ls
 id_rsa  id_rsa.pub  known_hosts
 offliner@ubuntu:~/.ssh$ cat id_rsa.pub
 ```
+在此就不附上我的金鑰給大家看，怕有人亂搞
 
+接著，進入網站提供的shell
+
+照同樣的步驟，創屬於網站shell專屬的金鑰
+
+`ssh-keygen`
+
+接著，前往.ssh的目錄下
+
+`cd .ssh`
+
+修改裡面原有的金鑰
+
+`vi authorized_keys`
+
+將自己剛剛產生的金鑰貼進來
+
+然後下按下`esc`，再下`:wq`存檔離開
+
+回到自己linux的終端機，下此指令，發現不用密碼就能登入網站提供的shell，flag也馬上出來
+```shell
+offliner@ubuntu:~/.ssh$ ssh 2018shell4.picoctf.com
+picoCTF{who_n33ds_p4ssw0rds_38dj21}
+Competition has not started or username does not exist on the platform website.
+Password: 
+```
 
 ## Useful Link
 如何生成ssh金鑰 : https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html
