@@ -72,3 +72,5 @@ flag就會跑出來~
 pwntools安裝 : https://pwntoolsdocinzh-cn.readthedocs.io/en/master/install.html
 
 sublime Text3安裝 : https://www.sublimetext.com/3
+
+[My code](answe.py)
