@@ -74,3 +74,5 @@ pwntools安裝 : https://pwntoolsdocinzh-cn.readthedocs.io/en/master/install.htm
 sublime Text3安裝 : https://www.sublimetext.com/3
 
 My code : [answer.py](answer.py)
+
+Pwntools詳細教學 : https://pwntoolsdocinzh-cn.readthedocs.io/en/master/intro.html
