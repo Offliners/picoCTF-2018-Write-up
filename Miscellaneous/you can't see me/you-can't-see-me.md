@@ -39,4 +39,4 @@ Offliner123@pico-2018-shell:/problems/you-can-t-see-me_4_8bd1412e56df49a3c3757eb
 ```
 
 ## Useful Link
-link
+Linux指令大全 : http://www.runoob.com/linux/linux-command-manual.html
