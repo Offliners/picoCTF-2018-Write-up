@@ -7,8 +7,5 @@ Categeory
 ## Solution
 method
 
-## Flag
-flag
-
 ## Useful Link
 link
