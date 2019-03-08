@@ -25,6 +25,8 @@ Miscellaneous
 
 `./`     執行檔案
 
+`*`      萬用字元，代表0或多個字元
+
 了解這些指令後就來解這題吧~
 ```shell
 Sweet! We have gotten access into the system but we aren't root.
