@@ -26,7 +26,7 @@ Miscellaneous
 接著就開始找flag吧~
 
 ```shell
- Offliner123@pico-2018-shell:~$ cd /problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f                            
+Offliner123@pico-2018-shell:~$ cd /problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f                            
 Offliner123@pico-2018-shell:/problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f$ ls                              
 Offliner123@pico-2018-shell:/problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f$ ls -al                          
 total 60                                                                                                                   
