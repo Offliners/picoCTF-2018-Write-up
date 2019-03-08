@@ -14,7 +14,7 @@
 |[environ](environ/environ.md)|[flag](environ/flag.md)|150|Solved|
 |[ssh-keyz](ssh-keyz/ssh-keyz.md)|[flag](ssh-keyz/flag.md)|150|Solved|
 |[what base is this?](what%20base%20is%20this/what-base-is-this.md)|[flag](what%20base%20is%20this/flag.md)|200|Solved|
-|you can't see me|flag|200|Unolved|
+|[you can't see me](you%20can't%20see%20me/you-can't-see-me.md)|[flag](you%20can't%20see%20me/flag.md)|200|Unolved|
 |absolutely relative|flag|200|Unolved|
 |in out error|flag|275|Unolved|
 |learn gdb|flag|300|Unolved|
