@@ -39,6 +39,9 @@ picoCTF{j0hn_c3na_paparapaaaaaaa_paparapaaaaaa_22f627d9}
 cat: ..: Permission denied                                                                                                 
 Offliner123@pico-2018-shell:/problems/you-can-t-see-me_4_8bd1412e56df49a3c3757ebeb7ead77f$   
 ```
+用`ls -al`就發現該目錄下有開頭為.的檔案，因此再用`cat .*`來讀取所有開頭.的檔案
+
+flag就馬上出現啦~
 
 ## Useful Link
 Linux指令大全 : http://www.runoob.com/linux/linux-command-manual.html
