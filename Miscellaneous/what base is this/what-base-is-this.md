@@ -37,14 +37,14 @@ Too slow!
 #!/usr/bin/python
 from pwn import * //使用pwntools
 
-s = remote('2018shell1.picoctf.com', 31711) //連線到題目指定的伺服器
+s = remote('2018shell1.picoctf.com', 31711) #連線到題目指定的伺服器
 
-binary = s.recvuntil('word.') //讀取字串並停止在word
-binary = re.findall(r'(\d+)', binary) //使用pwntools內建模組re的findall函式庫，findall可以指定的字串
+binary = s.recvuntil('word.') #讀取字串並停止在word
+binary = re.findall(r'(\d+)', binary) #使用pwntools內建模組re的findall函式庫，findall可以指定的字串
 ans = ''
 for i in binary:
-	ans += chr(int(i, 2)) //將binary一個個轉成十進位，在轉成ASCII
-s.sendline(ans) //將答案送出
+	ans += chr(int(i, 2)) #將binary一個個轉成十進位，在轉成ASCII
+s.sendline(ans) #將答案送出
 
 hexa = s.recvuntil('word').strip()
 hexa = re.findall(r'([0-9a-f]+) as ', hexa)[0]
@@ -58,9 +58,9 @@ for i in octal:
 	ans += chr(int(i, 8))
 s.sendline(ans)
 
-print s.recvuntil('}\n') //印出flag
+print s.recvuntil('}\n') #印出flag
 
-s.close() //關閉程式
+s.close() #關閉程式
 ```
 接著在終端機下此指令即可執行這程式
 
